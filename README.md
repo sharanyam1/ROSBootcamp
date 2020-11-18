@@ -1,7 +1,7 @@
 # ROSBootcamp
 Repository that talks about all basic features of ROS as a part of the ROS Boot camp
 
-1​      What is ROS? Name its merits and limitations for roboticists?
+1.​      What is ROS? Name its merits and limitations for roboticists?
 
 ans : It is a META operating system which provides services like hardware abstraction, low-level device control, implementation of commonly-used functionality,message-passing between processes, and package management 
 
